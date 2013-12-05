@@ -13,3 +13,9 @@ results
 
 npm-debug.log
 node_modules
+
+html5-boilerplate.docpad/.docpad.db
+html5-boilerplate.docpad/.git
+html5-boilerplate.docpad/.gitignore
+html5-boilerplate.docpad/.jshintrc
+html5-boilerplate.docpad/node_modules
